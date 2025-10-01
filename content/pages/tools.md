@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides links to OpenMP compilers and other OpenMP tools.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -15,15 +17,15 @@ video_metadata:
 OpenMP Compilers
 ----------------
 
-*   {{% resource_link "a1eb6838-88c9-4d75-b304-9966f7b8cc88" "OpenMP Support in Sun Studio Compilers and Tools" %}}
-*   {{% resource_link "3e7173f9-9dbb-4439-bcfe-ada37a542ce7" "Sun Studio Downloads" %}}
-*   {{% resource_link "4575e6cb-c6cd-492a-8cc3-64132455a75d" "Sun Studio 12: OpenMP API User's Guide" %}}
-*   {{% resource_link "00bcd2e5-b59c-405d-a39d-c7ef8f0d84db" "GNU libgomp" %}}
+*   [OpenMP Support in Sun Studio Compilers and Tools](http://developers.sun.com/solaris/articles/studio_openmp.html)
+*   [Sun Studio Downloads](http://developers.sun.com/sunstudio/downloads/index.jsp)
+*   [Sun Studio 12: OpenMP API User's Guide](http://docs.sun.com/app/docs/doc/819-5270)
+*   [GNU libgomp](http://gcc.gnu.org/onlinedocs/libgomp/)
 
 OpenMP Tools
 ------------
 
-*   {{% resource_link "e94955eb-8fbb-4bc8-be1f-dd748ea3c9f1" "Sun Studio 12: Thread Analyzer User's Guide" %}}
-*   {{% resource_link "ad2e3090-7b58-447c-91d8-6e74439bc753" "Sun Studio Compiler Options" %}}
-*   {{% resource_link "eb695b29-3a06-4e71-90ac-8dba23bd994f" "Sun Studio 12: Performance Analyzer" %}}
-*   {{% resource_link "267c96b1-e424-4633-89b9-563e2d14bb95" "Sun Studio 12: Debugging a Program With dbx" %}}
+*   [Sun Studio 12: Thread Analyzer User's Guide](https://docs.oracle.com/cd/E19205-01/820-0619/index.html)
+*   [Sun Studio Compiler Options](https://docs.oracle.com/cd/E19205-01/820-3529/index.html)
+*   [Sun Studio 12: Performance Analyzer](https://docs.oracle.com/cd/E19205-01/819-5264/)
+*   [Sun Studio 12: Debugging a Program With dbx](http://docs.sun.com/app/docs/doc/819-5257)

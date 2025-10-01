@@ -4,6 +4,8 @@ description: Supporting code file for problem set 4.
 file: /courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/a6688a42ed2c5e44a8df30bbe0ad70e1_Halo.f
 file_size: 22540
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
