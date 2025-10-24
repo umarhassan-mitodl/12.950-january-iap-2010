@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides links to OpenMP compilers and other OpenMP tools.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
